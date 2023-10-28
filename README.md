@@ -1,7 +1,5 @@
 ### Óla! Eu sou o And Pires da Silva ✋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-aa306a254?style=for-the-badge&logo=linkedin&logoColor=white)]
-
 ![Andy GitHub stats](https://github-readme-stats.vercel.app/api?username=AndyPR&show_icons=true&theme=dracula)
 
 ### Tecnologias que eu apreendi a usar:
