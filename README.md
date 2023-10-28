@@ -1,6 +1,6 @@
 ### Óla! Eu sou o And Pires da Silva ✋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+[![Linkedin](https://img.shields.io/badge/LinkedIn-aa306a254?style=for-the-badge&logo=linkedin&logoColor=white)]
 
 ![Andy GitHub stats](https://github-readme-stats.vercel.app/api?username=AndyPR&show_icons=true&theme=dracula)
 
@@ -13,8 +13,7 @@
   <img align="center" alt="PHYTON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
-Adoro programação, gosto de apreender novas linguagens de programação.
-
+Adoro programação, gosto de apreender novas linguagens de programação.<br/>
 Andy.email:
-andyprs01@gmail.com
-
+andyprs01@gmail.com<br/>
+Whatsapp📱:(+55)11 996218-7000
